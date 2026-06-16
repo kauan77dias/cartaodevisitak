@@ -1,28 +1,36 @@
 h1{
-color:rgba(255, 251, 3, 0.925)
-  ;  background-color:rgb(255, 0, 0);
+    color:rgba(255, 251, 3, 0.925);
+    background-color:rgb(255, 0, 0);
 }
 img{
-    width: 450px
-
+    width: 300px;
+   
+   border-radius: 25px;
+    
 }
 
 h2{
-    color:rgba(255, 251, 3, 0.925)
-     ;  background-color:rgb(51, 96, 179)
+    color:rgba(255, 251, 3, 0.925);
+    background-color:rgb(51, 96, 179);
 }
 
 
 p{
-    color:rgba(255, 251, 3, 0.925)
+    color:rgba(255, 251, 3, 0.925);
 }
 
 
 body{
     text-align: center;
-    background-color:black
+    background-color:black;
 }
-
+.cartao{
+    margin: auto;
+    background-color: rgb(80, 3, 3);
+    border-radius: 25px;
+    width: 600px;
+    border-style:groove;
+}
 
 
 
